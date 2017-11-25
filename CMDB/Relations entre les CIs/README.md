@@ -92,9 +92,13 @@ Fonction de filtrage "libre". Peut accepter un paramètre en entrée corresponda
 <a name="stopClass"></a>**stopClass** : *Array* :  Action après le glide record.
 Liste des classes de CI servant de points d'arrêt à la recherche, si un CI avec l'une des classes renseignées est fourni, il sera intégré au résultat mais sa branche ne sera pas parcourus.
 
+![stopClass](./img/stopClass.png)
+
 <a name="encodedQuery"></a>**encodedQuery** : *String* :  Action pendant le glide record.
 Requête encodée au format ServiceNow. Tout CI écarté par ce paramètre ne sera pas intégré au résultat et sa branche ne sera parcouru.
 > Note : Le Dot-Walking est possible dans les requêtes encodées.
+
+![encodedQuery](./img/encodedQuery.png)
 
 <a name="allCI"></a>**allCI** : *String*.
 Requête encodée utilisée comme filtre lorsque qu'aucun résultat ne sort de la recherche avec les autres paramètres.
