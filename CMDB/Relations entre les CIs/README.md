@@ -24,6 +24,13 @@ Contient les options de l'instance.
 
 Méthodes
 --------
+
+Liste des méthodes :
+
+ - [CIRelationshipsTools](#CIRelationshipsTools) : Constructeur
+ - [getRelatedCI](#getRelatedCI) : Recherche des CIs reliés
+ - [getRelatedCIFilter](#getRelatedCIFilter) : Recherche des CIs reliés
+ 
 <a name="CIRelationshipsTools"></a>**CIRelationshipsTools(ciSysID,options)**
 Entrée : 
  - **ciSysID** : *String* : Identifiant système d'un élément de configuration
