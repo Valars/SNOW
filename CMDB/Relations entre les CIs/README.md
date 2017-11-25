@@ -71,7 +71,9 @@ Liste des options :
 
 <a name="authClass"></a>**authClass** : *Array* : Action après le GlideRecord.
 Liste des classes de CI à autoriser dans le résultat. Si un CI est rejeté par ce filtre, ces enfants seront tout de même parcourus.
-![](/img/authClass.png)
+
+![authClass](./img/authClass.png)
+
 <a name="prohClass"></a>**prohClass** : *Array* : Action après le GlideRecord.
 Liste des classes de CI à ne pas autoriser dans le résultat. Si un CI est rejeté par ce filtre, ces enfants seront tout de même parcourus. 
 !!! Si l'option **[authClass](#authClass)** est utilisée, **prohClass** ne sera pas considérée.
