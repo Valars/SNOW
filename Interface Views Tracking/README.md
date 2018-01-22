@@ -19,7 +19,13 @@ Cet ensemble d'objet permet de conserver un historique des pages vues sur chaque
 
 ## <a name="Tables"></a>Tables
 
-### <a name="Tables_Interface"></a>**Interface** : Contient l'ensembles des interfaces dont il faut enregistrer les vues.
+### <a name="Tables_Interface"></a>Interface
 
-### <a name="Tables_Interface_Usage_Log"></a>**Interface Usage Log** : Historique des pages visitées par les utilisateurs.
+#### Description
+Contient l'ensembles des interfaces dont il faut enregistrer les vues.
+
+### <a name="Tables_Interface_Usage_Log"></a>Interface Usage Log
+
+#### Description 
+Historique des pages visitées par les utilisateurs.
 
