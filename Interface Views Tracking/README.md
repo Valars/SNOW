@@ -8,10 +8,10 @@ Cet ensemble d'objet permet de conserver un historique des pages vues sur chaque
  - [Tables](#Tables)
    - [Interface](#Tables_Interface)
      - [Champs](#Tables_Interface_Champs)
-   	 - [ACL](#Tables_Interface_ACL)
+   	 - [ACLs](#Tables_Interface_ACLs)
    - [Interface Usage Log](#Tables_Interface_Usage_Log)
      - [Champs](#Tables_Interface_Usage_Log_Champs)
-     - [ACL](#Tables_Interface_Usage_Log_ACL)
+     - [ACLs](#Tables_Interface_Usage_Log_ACLs)
  - [UI Scripts](#UI_Scripts)
    - [LogInterfaceUsage](#UI_Scripts_LogInterfaceUsage)
  - [Script Includes](#Script_Includes)
@@ -24,8 +24,15 @@ Cet ensemble d'objet permet de conserver un historique des pages vues sur chaque
 #### Description
 Contient l'ensembles des interfaces dont il faut enregistrer les vues.
 
+#### Champs
+|Label|Nom|Type|Length|Reference to|
+#### ACLs
+
 ### <a name="Tables_Interface_Usage_Log"></a>Interface Usage Log
 
 #### Description 
 Historique des pages visitées par les utilisateurs.
 
+#### Champs
+
+#### ACLs
