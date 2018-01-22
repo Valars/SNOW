@@ -1,5 +1,4 @@
-#CIRelationshipsTools#
----
+CIRelationshipsTools
 
 ##Description##
 
