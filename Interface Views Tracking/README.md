@@ -25,7 +25,10 @@ Contient l'ensembles des interfaces dont il faut enregistrer les vues.
 
 #### <a name="Tables_Interface_Champs"></a>Champs
 
-|Label|Nom|Type|Length|Reference to|
+|Label|Nom    |Type           |Length|Reference to|Description           |
+|-----|-------|---------------|------|------------|----------------------|
+|Label|u_label|Translated Text|40    |-           |Valeur à afficher     |
+|Name |u_name |String         |40    |-           |Préfixe de l'interface|
 
 #### <a name="Tables_Interface_ACLs"></a>ACLs
 
