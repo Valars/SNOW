@@ -81,10 +81,11 @@ Fonction de filtrage "libre". Peut accepter un paramètre en entrée corresponda
  - bool1 : Indique si le CI est à intégrer au résultat
  - bool2 : Indique si la recherche dans cette branche de l'arbre doit se poursuivre
 > Exemple de fonction :
-> ```javascript
->  function(curr){
+>```javascript
+>function(curr){
 >  return [curr.u_active==true,true];
-> }```
+>}
+>```
 > Dans ce cas, le CI n'apparaitra dans les résultat que si le champ u_active est true et ses enfants seront parcourus quoiqu'il arrive.
 
 <a name="stopClass"></a>**stopClass** : *Array* :  Action après le glide record.
