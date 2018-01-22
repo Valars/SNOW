@@ -21,7 +21,6 @@ Cet ensemble d'objet permet de conserver un historique des pages vues sur chaque
 
 ### <a name="Tables_Interface"></a>Interface
 
-#### Description
 Contient l'ensembles des interfaces dont il faut enregistrer les vues.
 
 #### Champs
@@ -29,8 +28,6 @@ Contient l'ensembles des interfaces dont il faut enregistrer les vues.
 #### ACLs
 
 ### <a name="Tables_Interface_Usage_Log"></a>Interface Usage Log
-
-#### Description 
 Historique des pages visitées par les utilisateurs.
 
 #### Champs
