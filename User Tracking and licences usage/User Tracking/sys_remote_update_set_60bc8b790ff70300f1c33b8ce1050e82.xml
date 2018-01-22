@@ -1,0 +1,1484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2018-01-22 13:32:59">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Interfaces Usage Tracking</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>60e916350f330300f1c33b8ce1050eca</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>60bc8b790ff70300f1c33b8ce1050e82</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_u_interface__en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="" label="Interface" language="en" table="u_interface"><sys_documentation action="INSERT_OR_UPDATE"><element/><help/><hint/><label>Interface</label><language>en</language><name>u_interface</name><plural>Interfaces</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 10:42:58</sys_created_on><sys_id>f1c5aef90f330300f1c33b8ce1050e53</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Interface</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_documentation_u_interface__en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 10:42:58</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-1960283165</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>20bc477d0ff70300f1c33b8ce1050e11</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611d76c4e00000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table>u_interface</table>
+<target_name>Interface</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>02c5aef909330300430d80eda0787d61</update_guid>
+<update_guid_history>02c5aef909330300430d80eda0787d61:-1960283165</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_a073f6fd0fb70300f1c33b8ce1050edb</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 11:43:45</sys_created_on><sys_id>a073f6fd0fb70300f1c33b8ce1050edb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.nobody</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_security_acl display_value="">be63fafd0fb70300f1c33b8ce1050e40</sys_security_acl><sys_update_name>sys_security_acl_role_a073f6fd0fb70300f1c33b8ce1050edb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 11:43:45</sys_updated_on><sys_user_role display_value="nobody" name="nobody">b05940500a0a0aa70090a4893f6ff35d</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-887091831</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>20bc477d0ff70300f1c33b8ce1050e14</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611dae6abb0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table>be63fafd0fb70300f1c33b8ce1050e40</table>
+<target_name>.nobody</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>5cb37ab584770300ce5ce6f17f13fe82</update_guid>
+<update_guid_history>5cb37ab584770300ce5ce6f17f13fe82:-887091831</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>ua_table_licensing_config_bd8dea350f770300f1c33b8ce1050e22</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>u_interface_usage_log0007</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 11:16:48</sys_created_on><sys_id>bd8dea350f770300f1c33b8ce1050e22</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_interface_usage_log0007</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>ua_table_licensing_config_bd8dea350f770300f1c33b8ce1050e22</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 11:16:48</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+<payload_hash>2082891770</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>20bc477d0ff70300f1c33b8ce1050e17</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611d95c0a30000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table/>
+<target_name>u_interface_usage_log0007</target_name>
+<type>Table Subscription Configuration</type>
+<update_domain>global</update_domain>
+<update_guid>b98dea3525770300432dce8919e81123</update_guid>
+<update_guid_history>b98dea3525770300432dce8919e81123:2082891770</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_db_object_3ba422f90f330300f1c33b8ce1050eb1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>Interface</label><live_feed_enabled>false</live_feed_enabled><name>u_interface</name><number_ref/><provider_class/><read_access>true</read_access><super_class/><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 10:42:57</sys_created_on><sys_id>3ba422f90f330300f1c33b8ce1050eb1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Interface</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_db_object_3ba422f90f330300f1c33b8ce1050eb1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 10:42:57</sys_updated_on><update_access>false</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+<payload_hash>-431786701</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>20bc8b790ff70300f1c33b8ce1050e83</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611d76c5000000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table>u_interface</table>
+<target_name>Interface</target_name>
+<type>Table</type>
+<update_domain>global</update_domain>
+<update_guid>42c5aef98033030041e06a3a3d0d1163</update_guid>
+<update_guid_history>42c5aef98033030041e06a3a3d0d1163:-431786701</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_u_interface_usage_log_u_user_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_user" label="User" language="en" table="u_interface_usage_log"><sys_documentation action="INSERT_OR_UPDATE"><element>u_user</element><help/><hint/><label>User</label><language>en</language><name>u_interface_usage_log</name><plural>Users</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 11:06:41</sys_created_on><sys_id>e93be2f90ff30300f1c33b8ce1050e64</sys_id><sys_mod_count>0</sys_mod_count><sys_name>User</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_documentation_u_interface_usage_log_u_user_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 11:06:41</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>1811693147</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>24bc477d0ff70300f1c33b8ce1050e10</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611d8c7fcb0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table>u_interface_usage_log</table>
+<target_name>Interface Usage Log.User</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>653be2f936f3030025a4951904a3eec4</update_guid>
+<update_guid_history>653be2f936f3030025a4951904a3eec4:1811693147</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_382336fd0fb70300f1c33b8ce1050e57</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 11:41:31</sys_created_on><sys_id>382336fd0fb70300f1c33b8ce1050e57</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.nobody</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_security_acl display_value="">0f13b6fd0fb70300f1c33b8ce1050e1a</sys_security_acl><sys_update_name>sys_security_acl_role_382336fd0fb70300f1c33b8ce1050e57</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 11:41:31</sys_updated_on><sys_user_role display_value="nobody" name="nobody">b05940500a0a0aa70090a4893f6ff35d</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>1663485454</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>24bc477d0ff70300f1c33b8ce1050e13</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611dac5f2b0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table>0f13b6fd0fb70300f1c33b8ce1050e1a</table>
+<target_name>.nobody</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>a323b6fd86b703002005a3c76dbd24b2</update_guid>
+<update_guid_history>a323b6fd86b703002005a3c76dbd24b2:1663485454</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>ua_table_licensing_config_618daa350f770300f1c33b8ce1050e92</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>u_interface_usage_log0005</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 11:16:48</sys_created_on><sys_id>618daa350f770300f1c33b8ce1050e92</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_interface_usage_log0005</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>ua_table_licensing_config_618daa350f770300f1c33b8ce1050e92</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 11:16:48</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+<payload_hash>-1547624902</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>24bc477d0ff70300f1c33b8ce1050e16</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611d95bd480000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table/>
+<target_name>u_interface_usage_log0005</target_name>
+<type>Table Subscription Configuration</type>
+<update_domain>global</update_domain>
+<update_guid>6d8daa352b7703002879856746189f92</update_guid>
+<update_guid_history>6d8daa352b7703002879856746189f92:-1547624902</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_e3437afd0fb70300f1c33b8ce1050e9d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><name>u_interface_usage_log</name><operation display_value="write">write</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 11:42:28</sys_created_on><sys_id>e3437afd0fb70300f1c33b8ce1050e9d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_interface_usage_log</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_security_acl_e3437afd0fb70300f1c33b8ce1050e9d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 11:42:28</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-1415242871</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>28bc477d0ff70300f1c33b8ce1050e12</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611dad403e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table>u_interface_usage_log</table>
+<target_name>u_interface_usage_log</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>e1637afd8fb70300b2236f238ca7c8a6</update_guid>
+<update_guid_history>e1637afd8fb70300b2236f238ca7c8a6:-1415242871</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_bc5baef90ff30300f1c33b8ce1050e93</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="bc5baef90ff30300f1c33b8ce1050e93" sys_domain="global" table="u_interface" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 11:07:26</sys_created_on><sys_id>a46bee7d0ff30300f1c33b8ce1050ee5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_interface" sys_domain="global" view="Default view">bc5baef90ff30300f1c33b8ce1050e93</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 11:07:26</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_name</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 11:07:26</sys_created_on><sys_id>286bee7d0ff30300f1c33b8ce1050ee5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_interface" sys_domain="global" view="Default view">bc5baef90ff30300f1c33b8ce1050e93</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 11:07:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 11:07:26</sys_created_on><sys_id>a86bee7d0ff30300f1c33b8ce1050ee5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_interface" sys_domain="global" view="Default view">bc5baef90ff30300f1c33b8ce1050e93</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 11:07:26</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_label</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 11:07:26</sys_created_on><sys_id>2c6bee7d0ff30300f1c33b8ce1050ee5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_interface" sys_domain="global" view="Default view">bc5baef90ff30300f1c33b8ce1050e93</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 11:07:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 11:07:26</sys_created_on><sys_id>ac6bee7d0ff30300f1c33b8ce1050ee5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_interface" sys_domain="global" view="Default view">bc5baef90ff30300f1c33b8ce1050e93</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 11:07:26</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>u_interface</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 11:07:12</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>bc5baef90ff30300f1c33b8ce1050e93</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_interface</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_section_bc5baef90ff30300f1c33b8ce1050e93</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 11:07:12</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>-1940024112</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>28bc477d0ff70300f1c33b8ce1050e15</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611d8d2d3c0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table>u_interface</table>
+<target_name>Interface</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid>e46bee7d32f30300f8cb8290f24afae7</update_guid>
+<update_guid_history>e46bee7d32f30300f8cb8290f24afae7:-1940024112,415baef93bf303005a7fff6c21d0f19a:-1940024112,f45baef992f30300890bf78dcefe1097:-1261660354</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_6388eab90f730300f1c33b8ce1050e69</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><name>u_interface</name><operation display_value="read">read</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 10:55:21</sys_created_on><sys_id>6388eab90f730300f1c33b8ce1050e69</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_interface</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_security_acl_6388eab90f730300f1c33b8ce1050e69</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 10:55:21</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>1417894427</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>2cbc477d0ff70300f1c33b8ce1050e11</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611d821c250000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table>u_interface</table>
+<target_name>u_interface</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>9f98aab9d7730300d588b133f2b1cfe2</update_guid>
+<update_guid_history>9f98aab9d7730300d588b133f2b1cfe2:1417894427</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_list_u_interface_usage_log_null</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="u_interface_usage_log" version="2" view=""><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>u_interface</element><list_id display_value="u_interface_usage_log" element="NULL" name="u_interface_usage_log" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9d4d2abd0f370300f1c33b8ce1050e28</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 11:15:41</sys_created_on><sys_id>154d2abd0f370300f1c33b8ce1050e29</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 11:15:41</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>u_page</element><list_id display_value="u_interface_usage_log" element="NULL" name="u_interface_usage_log" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9d4d2abd0f370300f1c33b8ce1050e28</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 11:15:41</sys_created_on><sys_id>954d2abd0f370300f1c33b8ce1050e29</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 11:15:41</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>u_user</element><list_id display_value="u_interface_usage_log" element="NULL" name="u_interface_usage_log" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9d4d2abd0f370300f1c33b8ce1050e28</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 11:15:41</sys_created_on><sys_id>194d2abd0f370300f1c33b8ce1050e29</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 11:15:41</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_created_on</element><list_id display_value="u_interface_usage_log" element="NULL" name="u_interface_usage_log" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9d4d2abd0f370300f1c33b8ce1050e28</list_id><max_value>false</max_value><min_value>false</min_value><position>3</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 11:15:41</sys_created_on><sys_id>994d2abd0f370300f1c33b8ce1050e29</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 11:15:41</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>u_interface_usage_log</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 11:15:41</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9d4d2abd0f370300f1c33b8ce1050e28</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_interface_usage_log</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_list_u_interface_usage_log_null</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 11:15:41</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+<payload_hash>2007574154</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>2cbc477d0ff70300f1c33b8ce1050e14</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611d94b9080000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table>u_interface_usage_log</table>
+<target_name>Interface Usage Log</target_name>
+<type>List Layout</type>
+<update_domain>global</update_domain>
+<update_guid>954d2abd483703001ebe259247abcf2b</update_guid>
+<update_guid_history>954d2abd483703001ebe259247abcf2b:2007574154,a63de2b11a77030053d2545478f07707:-110455816</update_guid_history>
+<update_set display_value=""/>
+<view>Default view</view>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_interface_usage_log_u_interface</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="u_interface" table="u_interface_usage_log"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Interface&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;u_interface&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="Reference"&gt;reference&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;32&lt;/max_length&gt;&lt;name&gt;u_interface_usage_log&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference display_value="" name="u_interface"&gt;u_interface&lt;/reference&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-01-22 11:06:41&lt;/sys_created_on&gt;&lt;sys_id&gt;bebaa6f10ff30300f1c33b8ce1050e24&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Interface&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_u_interface_usage_log_u_interface&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-01-22 11:06:41&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1644787500</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>2cbc8b790ff70300f1c33b8ce1050e83</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611d8c7f540000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table>u_interface_usage_log</table>
+<target_name>Interface Usage Log.Interface</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>e53be2f990f30300eff8347859bab9be</update_guid>
+<update_guid_history>e53be2f990f30300eff8347859bab9be:-1644787500,613be2f94cf3030009f6200e10595503:-1644787500</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_u_interface_usage_log_u_page_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_page" label="Page" language="en" table="u_interface_usage_log"><sys_documentation action="INSERT_OR_UPDATE"><element>u_page</element><help/><hint/><label>Page</label><language>en</language><name>u_interface_usage_log</name><plural>Pages</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 13:27:04</sys_created_on><sys_id>3d5b073d0ff70300f1c33b8ce1050ea9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Page</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_documentation_u_interface_usage_log_u_page_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 13:27:04</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>2061965267</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>60bc477d0ff70300f1c33b8ce1050e10</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611e0d0b050000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table>u_interface_usage_log</table>
+<target_name>Interface Usage Log.Page</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>125b473d1bf70300510f2553abad4430</update_guid>
+<update_guid_history>125b473d1bf70300510f2553abad4430:2061965267,ad3b833deef703004ee2f08a2940363a:-1847655557,a13be2f920f30300e1453b887a9370c3:2061965267</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_344826350f730300f1c33b8ce1050ec4</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 10:54:08</sys_created_on><sys_id>344826350f730300f1c33b8ce1050ec4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.admin</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_security_acl display_value="">93382af50f730300f1c33b8ce1050ef7</sys_security_acl><sys_update_name>sys_security_acl_role_344826350f730300f1c33b8ce1050ec4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 10:54:08</sys_updated_on><sys_user_role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-311119350</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>60bc477d0ff70300f1c33b8ce1050e13</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611d80fd790000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table>93382af50f730300f1c33b8ce1050ef7</table>
+<target_name>.admin</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>a958ae39d87303004453f914c6f801b0</update_guid>
+<update_guid_history>a958ae39d87303004453f914c6f801b0:-311119350</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>ua_table_licensing_config_558d6a350f770300f1c33b8ce1050ee8</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>u_interface_usage_log0003</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 11:16:47</sys_created_on><sys_id>558d6a350f770300f1c33b8ce1050ee8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_interface_usage_log0003</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>ua_table_licensing_config_558d6a350f770300f1c33b8ce1050ee8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 11:16:47</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+<payload_hash>-883174278</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>60bc477d0ff70300f1c33b8ce1050e16</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611d95ba050000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table/>
+<target_name>u_interface_usage_log0003</target_name>
+<type>Table Subscription Configuration</type>
+<update_domain>global</update_domain>
+<update_guid>518d6a3599770300a13097bf5ac2bbe9</update_guid>
+<update_guid_history>518d6a3599770300a13097bf5ac2bbe9:-883174278</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_be63fafd0fb70300f1c33b8ce1050e40</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><name>u_interface_usage_log</name><operation display_value="delete">delete</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 11:43:45</sys_created_on><sys_id>be63fafd0fb70300f1c33b8ce1050e40</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_interface_usage_log</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_security_acl_be63fafd0fb70300f1c33b8ce1050e40</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 11:43:45</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-701616713</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>64bc477d0ff70300f1c33b8ce1050e12</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611dae6ae10000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table>u_interface_usage_log</table>
+<target_name>u_interface_usage_log</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>1cb37efdc1b70300fa941be8693655b0</update_guid>
+<update_guid_history>1cb37efdc1b70300fa941be8693655b0:-701616713</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_021da2710f770300f1c33b8ce1050e9a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="021da2710f770300f1c33b8ce1050e9a" sys_domain="global" table="u_interface_usage_log" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 11:15:18</sys_created_on><sys_id>2b2d2e390f370300f1c33b8ce1050ed1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_interface_usage_log" sys_domain="global" view="Default view">021da2710f770300f1c33b8ce1050e9a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 11:15:18</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_interface</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 11:15:18</sys_created_on><sys_id>ab2d2e390f370300f1c33b8ce1050ed1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_interface_usage_log" sys_domain="global" view="Default view">021da2710f770300f1c33b8ce1050e9a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 11:15:18</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_user</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 11:15:18</sys_created_on><sys_id>2f2d2e390f370300f1c33b8ce1050ed1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_interface_usage_log" sys_domain="global" view="Default view">021da2710f770300f1c33b8ce1050e9a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 11:15:18</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 11:15:18</sys_created_on><sys_id>af2d2e390f370300f1c33b8ce1050ed1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_interface_usage_log" sys_domain="global" view="Default view">021da2710f770300f1c33b8ce1050e9a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 11:15:18</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_page</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 11:15:18</sys_created_on><sys_id>232d2e390f370300f1c33b8ce1050ed2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_interface_usage_log" sys_domain="global" view="Default view">021da2710f770300f1c33b8ce1050e9a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 11:15:18</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sys_created_on</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 11:15:18</sys_created_on><sys_id>a32d2e390f370300f1c33b8ce1050ed2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_interface_usage_log" sys_domain="global" view="Default view">021da2710f770300f1c33b8ce1050e9a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 11:15:18</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 11:15:18</sys_created_on><sys_id>272d2e390f370300f1c33b8ce1050ed2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_interface_usage_log" sys_domain="global" view="Default view">021da2710f770300f1c33b8ce1050e9a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 11:15:18</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>u_interface_usage_log</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 11:14:56</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>021da2710f770300f1c33b8ce1050e9a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_interface_usage_log</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_section_021da2710f770300f1c33b8ce1050e9a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 11:14:56</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>1572357589</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>64bc477d0ff70300f1c33b8ce1050e15</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611d945ecb0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table>u_interface_usage_log</table>
+<target_name>Interface Usage Log</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid>ef2d2e397e3703002d93c647ac7f40d3</update_guid>
+<update_guid_history>ef2d2e397e3703002d93c647ac7f40d3:1572357589,c21da271a877030013c7a5321b522f9f:1761510261,ca1da2717e770300f0c29a0cb1a35b9c:-1428748567</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_application_fdc5aef90f330300f1c33b8ce1050e37</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name>Interface</name><order>100</order><roles/><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 10:42:57</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>fdc5aef90f330300f1c33b8ce1050e37</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Interface</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_app_application_fdc5aef90f330300f1c33b8ce1050e37</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 10:42:57</sys_updated_on><title>Interface</title><view_name/></sys_app_application></record_update>]]></payload>
+<payload_hash>-1009629707</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>64bc8b790ff70300f1c33b8ce1050e82</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611d76c26b0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table/>
+<target_name>Interface</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_guid>b5c5aef95b3303007c9f4944e8c09e39</update_guid>
+<update_guid_history>b5c5aef95b3303007c9f4944e8c09e39:-1009629707</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_interface_u_label</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="u_label" table="u_interface"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Label&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;true&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;u_label&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value=""&gt;translated_text&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;u_interface&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-01-22 10:53:33&lt;/sys_created_on&gt;&lt;sys_id&gt;2d28e6350f730300f1c33b8ce1050ea9&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Label&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_u_interface_u_label&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-01-22 11:03:35&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1442066202</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>64bc8b790ff70300f1c33b8ce1050e84</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611d89a63b0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table>u_interface</table>
+<target_name>Interface.Label</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>8c8a6efddeb30300f183f6696ad36351</update_guid>
+<update_guid_history>8c8a6efddeb30300f183f6696ad36351:1442066202,d53826f502730300b32bc0f64bb5826f:1910288437</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_3bb82a3d0f730300f1c33b8ce1050e05</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><name>u_interface</name><operation display_value="write">write</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 10:56:17</sys_created_on><sys_id>3bb82a3d0f730300f1c33b8ce1050e05</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_interface</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_security_acl_3bb82a3d0f730300f1c33b8ce1050e05</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 10:56:17</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-227969833</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>68bc477d0ff70300f1c33b8ce1050e11</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611d82f4b50000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table>u_interface</table>
+<target_name>u_interface</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>89d8227d15730300cb80d3b79e1986c3</update_guid>
+<update_guid_history>89d8227d15730300cb80d3b79e1986c3:-227969833</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_list_u_interface_null</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="u_interface" version="2" view=""><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>u_name</element><list_id display_value="u_interface" element="NULL" name="u_interface" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6ccbe6f10f370300f1c33b8ce1050e9b</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 11:09:05</sys_created_on><sys_id>a0cbe6f10f370300f1c33b8ce1050e9c</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 11:09:05</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>u_label</element><list_id display_value="u_interface" element="NULL" name="u_interface" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6ccbe6f10f370300f1c33b8ce1050e9b</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 11:09:05</sys_created_on><sys_id>24cbe6f10f370300f1c33b8ce1050e9c</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 11:09:05</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>u_interface</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 11:09:05</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6ccbe6f10f370300f1c33b8ce1050e9b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_interface</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_list_u_interface_null</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 11:09:05</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+<payload_hash>1275719610</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>68bc477d0ff70300f1c33b8ce1050e14</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611d8eae190000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table>u_interface</table>
+<target_name>Interface</target_name>
+<type>List Layout</type>
+<update_domain>global</update_domain>
+<update_guid>e0cbe6f171370300492392effede849e</update_guid>
+<update_guid_history>e0cbe6f171370300492392effede849e:1275719610,007beebd5af30300cdcf65fc4bd65f65:-699833068</update_guid_history>
+<update_set display_value=""/>
+<view>Default view</view>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>u_interface_b40c6eb50f370300f1c33b8ce1050e02</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="u_interface"><u_interface action="INSERT_OR_UPDATE"><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 11:10:29</sys_created_on><sys_id>b40c6eb50f370300f1c33b8ce1050e02</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 11:10:29</sys_updated_on><u_label>Backend</u_label><u_name/></u_interface></record_update>]]></payload>
+<payload_hash>2120202308</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>68bc477d0ff70300f1c33b8ce1050e17</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611d9232640000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table/>
+<target_name>Backend</target_name>
+<type>Interface</type>
+<update_domain>global</update_domain>
+<update_guid>30ac2af1993703001c5e85248cd266f6</update_guid>
+<update_guid_history>30ac2af1993703001c5e85248cd266f6:2120202308</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_interface_usage_log_null</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="" table="u_interface_usage_log"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element/&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="Collection"&gt;collection&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;u_interface_usage_log&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-01-22 10:34:23&lt;/sys_created_on&gt;&lt;sys_id&gt;50d3e6b90f330300f1c33b8ce1050e56&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;u_interface_usage_log&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_u_interface_usage_log_null&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-01-22 10:34:23&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-557056860</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>68bc8b790ff70300f1c33b8ce1050e83</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611d6eea280000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table>u_interface_usage_log</table>
+<target_name>Interface Usage Log</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>58d3e6b91a330300dafd3351085b9e68</update_guid>
+<update_guid_history>58d3e6b91a330300dafd3351085b9e68:-557056860</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_u_interface_u_name_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_name" label="Name" language="en" table="u_interface"><sys_documentation action="INSERT_OR_UPDATE"><element>u_name</element><help/><hint/><label>Name</label><language>en</language><name>u_interface</name><plural>Names</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 10:42:58</sys_created_on><sys_id>fdc5aef90f330300f1c33b8ce1050e54</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Name</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_documentation_u_interface_u_name_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 10:42:58</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>1023318459</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>6cbc477d0ff70300f1c33b8ce1050e10</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611d76c4ef0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table>u_interface</table>
+<target_name>Interface.Name</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>42c5aef95133030046566d31af543162</update_guid>
+<update_guid_history>42c5aef95133030046566d31af543162:1023318459</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_9b333abd0fb70300f1c33b8ce1050e3c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 11:41:56</sys_created_on><sys_id>9b333abd0fb70300f1c33b8ce1050e3c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.admin</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_security_acl display_value="">b933f6fd0fb70300f1c33b8ce1050ed4</sys_security_acl><sys_update_name>sys_security_acl_role_9b333abd0fb70300f1c33b8ce1050e3c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 11:41:56</sys_updated_on><sys_user_role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-1192544182</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>6cbc477d0ff70300f1c33b8ce1050e13</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611dacc0fe0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table>b933f6fd0fb70300f1c33b8ce1050ed4</table>
+<target_name>.admin</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>f5433afdc2b70300a281502186851896</update_guid>
+<update_guid_history>f5433afdc2b70300a281502186851896:-1192544182</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>ua_table_licensing_config_b48d2a350f770300f1c33b8ce1050ef5</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>u_interface_usage_log0000</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 11:16:45</sys_created_on><sys_id>b48d2a350f770300f1c33b8ce1050ef5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_interface_usage_log0000</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>ua_table_licensing_config_b48d2a350f770300f1c33b8ce1050ef5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 11:16:45</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+<payload_hash>113501658</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>6cbc477d0ff70300f1c33b8ce1050e16</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611d95b4170000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table/>
+<target_name>u_interface_usage_log0000</target_name>
+<type>Table Subscription Configuration</type>
+<update_domain>global</update_domain>
+<update_guid>788d2a3534770300221a58fcb5135ff6</update_guid>
+<update_guid_history>788d2a3534770300221a58fcb5135ff6:113501658</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_b1c5aef90f330300f1c33b8ce1050e3a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Interface">fdc5aef90f330300f1c33b8ce1050e37</application><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Interfaces</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>u_interface</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 10:42:57</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b1c5aef90f330300f1c33b8ce1050e3a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Interfaces</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_app_module_b1c5aef90f330300f1c33b8ce1050e3a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 10:42:57</sys_updated_on><timeline_page/><title>Interfaces</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+<payload_hash>717631834</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>6cbc8b790ff70300f1c33b8ce1050e82</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611d76c2b50000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table>u_interface</table>
+<target_name>Interfaces</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>b9c5aef9e233030034dacaccfe2f203b</update_guid>
+<update_guid_history>b9c5aef9e233030034dacaccfe2f203b:717631834</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_b933f6fd0fb70300f1c33b8ce1050ed4</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><name>u_interface_usage_log</name><operation display_value="read">read</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 11:41:56</sys_created_on><sys_id>b933f6fd0fb70300f1c33b8ce1050ed4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_interface_usage_log</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_security_acl_b933f6fd0fb70300f1c33b8ce1050ed4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 11:41:56</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-930028019</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>a0bc477d0ff70300f1c33b8ce1050e12</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611dacc12c0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table>u_interface_usage_log</table>
+<target_name>u_interface_usage_log</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>7d433afd17b703004c6f7c3cd307dd98</update_guid>
+<update_guid_history>7d433afd17b703004c6f7c3cd307dd98:-930028019</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_script_2ccdaab50f770300f1c33b8ce1050e49</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ui_script"&gt;&lt;sys_ui_script action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;description&gt;Send an Ajax Request to the server with the current url.&lt;/description&gt;&lt;global&gt;true&lt;/global&gt;&lt;name&gt;LogInterfaceUsage&lt;/name&gt;&lt;script&gt;&lt;![CDATA[{
+	var ga = new GlideAjax("LogInterfaceUsage");
+	ga.addParam("sysparm_name","logger");
+	ga.addParam("sysparm_url",window.location.href);
+	ga.getXML();
+}]]&gt;&lt;/script&gt;&lt;script_name/&gt;&lt;sys_class_name&gt;sys_ui_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-01-22 11:33:28&lt;/sys_created_on&gt;&lt;sys_id&gt;2ccdaab50f770300f1c33b8ce1050e49&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;LogInterfaceUsage&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_script_2ccdaab50f770300f1c33b8ce1050e49&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-01-22 11:33:28&lt;/sys_updated_on&gt;&lt;use_scoped_format&gt;false&lt;/use_scoped_format&gt;&lt;/sys_ui_script&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1500108156</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>a0bc477d0ff70300f1c33b8ce1050e15</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611da500a20000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table/>
+<target_name>LogInterfaceUsage</target_name>
+<type>UI Script</type>
+<update_domain>global</update_domain>
+<update_guid>7151f2fd80f30300afefd3d31d23d704</update_guid>
+<update_guid_history>7151f2fd80f30300afefd3d31d23d704:-1500108156</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_interface_usage_log_u_user</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="u_user" table="u_interface_usage_log"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;User&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;u_user&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="Reference"&gt;reference&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;32&lt;/max_length&gt;&lt;name&gt;u_interface_usage_log&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference display_value="" name="sys_user"&gt;sys_user&lt;/reference&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-01-22 11:06:41&lt;/sys_created_on&gt;&lt;sys_id&gt;b4eaeef90fb30300f1c33b8ce1050edc&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;User&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_u_interface_usage_log_u_user&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-01-22 11:06:41&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-712116462</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>a0bc8b790ff70300f1c33b8ce1050e84</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611d8c7f990000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table>u_interface_usage_log</table>
+<target_name>Interface Usage Log.User</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>ed3be2f9b1f303002198566edaac14c0</update_guid>
+<update_guid_history>ed3be2f9b1f303002198566edaac14c0:-712116462,653be2f980f30300d538827c15431763:-712116462</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_0f13b6fd0fb70300f1c33b8ce1050e1a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><name>u_interface_usage_log</name><operation display_value="create">create</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 11:41:31</sys_created_on><sys_id>0f13b6fd0fb70300f1c33b8ce1050e1a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_interface_usage_log</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_security_acl_0f13b6fd0fb70300f1c33b8ce1050e1a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 11:41:31</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-1459797031</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>a4bc477d0ff70300f1c33b8ce1050e11</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611dac5f6d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table>u_interface_usage_log</table>
+<target_name>u_interface_usage_log</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>af23b6fd0db7030062a83d4ea54c6fb4</update_guid>
+<update_guid_history>af23b6fd0db7030062a83d4ea54c6fb4:-1459797031</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_application_79c5aef90f330300f1c33b8ce1050e3c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application"><sys_ui_application action="INSERT_OR_UPDATE"><active>true</active><hint/><name>Interface</name><order/><roles/><sys_class_name>sys_ui_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 10:42:57</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>79c5aef90f330300f1c33b8ce1050e3c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Interface</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_application_79c5aef90f330300f1c33b8ce1050e3c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 10:42:57</sys_updated_on></sys_ui_application></record_update>]]></payload>
+<payload_hash>519585920</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>a4bc477d0ff70300f1c33b8ce1050e14</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611d76c2e70000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table/>
+<target_name>Interface</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_guid>39c5aef9f2330300912e335b6e65fd3d</update_guid>
+<update_guid_history>39c5aef9f2330300912e335b6e65fd3d:519585920</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>ua_table_licensing_config_d18daa350f770300f1c33b8ce1050e3d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>u_interface_usage_log0004</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 11:16:47</sys_created_on><sys_id>d18daa350f770300f1c33b8ce1050e3d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_interface_usage_log0004</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>ua_table_licensing_config_d18daa350f770300f1c33b8ce1050e3d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 11:16:47</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+<payload_hash>-1215399590</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>a4bc477d0ff70300f1c33b8ce1050e17</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611d95bb930000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table/>
+<target_name>u_interface_usage_log0004</target_name>
+<type>Table Subscription Configuration</type>
+<update_domain>global</update_domain>
+<update_guid>dd8daa3513770300e7fa219e179dc03d</update_guid>
+<update_guid_history>dd8daa3513770300e7fa219e179dc03d:-1215399590</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_interface_null</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="" table="u_interface"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes&gt;all_tables.text_index_translations=true&lt;/attributes&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element/&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="Collection"&gt;collection&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;u_interface&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-01-22 10:42:57&lt;/sys_created_on&gt;&lt;sys_id&gt;31c5aef90f330300f1c33b8ce1050e40&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;u_interface&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_u_interface_null&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-01-22 10:53:34&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>2004613565</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>a4bc8b790ff70300f1c33b8ce1050e83</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611d8078720000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table>u_interface</table>
+<target_name>Interface</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>113826f5257303003e8174c902c0246e</update_guid>
+<update_guid_history>113826f5257303003e8174c902c0246e:2004613565,8ec5aef9993303001955ea17fc1f0b5f:1757514141</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_u_interface_u_label_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_label" label="Label" language="en" table="u_interface"><sys_documentation action="INSERT_OR_UPDATE"><element>u_label</element><help/><hint/><label>Label</label><language>en</language><name>u_interface</name><plural>Labels</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 10:53:34</sys_created_on><sys_id>9d3826f50f730300f1c33b8ce1050e70</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Label</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_documentation_u_interface_u_label_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 10:53:34</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-1593024803</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>a8bc477d0ff70300f1c33b8ce1050e10</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611d8079b70000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table>u_interface</table>
+<target_name>Interface.Label</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>993826f51b73030032d1c1d729cac191</update_guid>
+<update_guid_history>993826f51b73030032d1c1d729cac191:-1593024803</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_859862750f730300f1c33b8ce1050eff</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 10:55:21</sys_created_on><sys_id>859862750f730300f1c33b8ce1050eff</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.admin</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_security_acl display_value="">6388eab90f730300f1c33b8ce1050e69</sys_security_acl><sys_update_name>sys_security_acl_role_859862750f730300f1c33b8ce1050eff</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 10:55:21</sys_updated_on><sys_user_role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-1316692625</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>a8bc477d0ff70300f1c33b8ce1050e13</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611d821bf10000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table>6388eab90f730300f1c33b8ce1050e69</table>
+<target_name>.admin</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>1b98aab99e730300706f14a091cf01e0</update_guid>
+<update_guid_history>1b98aab99e730300706f14a091cf01e0:-1316692625</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>ua_table_licensing_config_8ec5aef90f330300f1c33b8ce1050e5d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>u_interface</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 10:42:58</sys_created_on><sys_id>8ec5aef90f330300f1c33b8ce1050e5d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_interface</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>ua_table_licensing_config_8ec5aef90f330300f1c33b8ce1050e5d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 10:42:58</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+<payload_hash>1192818682</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>a8bc477d0ff70300f1c33b8ce1050e16</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611d76c4b00000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table/>
+<target_name>u_interface</target_name>
+<type>Table Subscription Configuration</type>
+<update_domain>global</update_domain>
+<update_guid>8ac5aef98c330300d2c4c705e6c21e5e</update_guid>
+<update_guid_history>8ac5aef98c330300d2c4c705e6c21e5e:1192818682</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_u_interface_usage_log_u_interface_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_interface" label="Interface" language="en" table="u_interface_usage_log"><sys_documentation action="INSERT_OR_UPDATE"><element>u_interface</element><help/><hint/><label>Interface</label><language>en</language><name>u_interface_usage_log</name><plural>Interfaces</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 11:06:42</sys_created_on><sys_id>e13be2f90ff30300f1c33b8ce1050e67</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Interface</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_documentation_u_interface_usage_log_u_interface_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 11:06:42</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>168555229</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>acbc477d0ff70300f1c33b8ce1050e0f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611d8c7faa0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table>u_interface_usage_log</table>
+<target_name>Interface Usage Log.Interface</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>ed3be2f9d8f30300fbbc22e3ecbf85c1</update_guid>
+<update_guid_history>ed3be2f9d8f30300fbbc22e3ecbf85c1:168555229</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_1153ba7d0fb70300f1c33b8ce1050e13</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 11:42:28</sys_created_on><sys_id>1153ba7d0fb70300f1c33b8ce1050e13</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.nobody</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_security_acl display_value="">e3437afd0fb70300f1c33b8ce1050e9d</sys_security_acl><sys_update_name>sys_security_acl_role_1153ba7d0fb70300f1c33b8ce1050e13</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 11:42:28</sys_updated_on><sys_user_role display_value="nobody" name="nobody">b05940500a0a0aa70090a4893f6ff35d</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-1422791276</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>acbc477d0ff70300f1c33b8ce1050e12</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611dad40190000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table>e3437afd0fb70300f1c33b8ce1050e9d</table>
+<target_name>.nobody</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>6d637afd13b70300a70ca10cf6e49ea3</update_guid>
+<update_guid_history>6d637afd13b70300a70ca10cf6e49ea3:-1422791276</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>ua_table_licensing_config_418d6a350f770300f1c33b8ce1050e4b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>u_interface_usage_log0001</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 11:16:46</sys_created_on><sys_id>418d6a350f770300f1c33b8ce1050e4b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_interface_usage_log0001</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>ua_table_licensing_config_418d6a350f770300f1c33b8ce1050e4b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 11:16:46</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+<payload_hash>-218723654</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>acbc477d0ff70300f1c33b8ce1050e15</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611d95b6b40000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table/>
+<target_name>u_interface_usage_log0001</target_name>
+<type>Table Subscription Configuration</type>
+<update_domain>global</update_domain>
+<update_guid>4d8d6a35c67703007a2e1a905ddce04b</update_guid>
+<update_guid_history>4d8d6a35c67703007a2e1a905ddce04b:-218723654</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_611ea6790f770300f1c33b8ce1050e72</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;global.LogInterfaceUsage&lt;/api_name&gt;&lt;client_callable&gt;true&lt;/client_callable&gt;&lt;description&gt;Used to log the current page viewed by an user.&lt;/description&gt;&lt;name&gt;LogInterfaceUsage&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var LogInterfaceUsage = Class.create();
+LogInterfaceUsage.prototype = Object.extendsObject(AbstractAjaxProcessor, {
+	logger : function(){
+		return LogInterfaceUsage.logger(this.getParameter('sysparm_url'));
+	},
+    type: 'LogInterfaceUsage'
+});
+LogInterfaceUsage.logger = function(url){
+	try{
+		var parsedURL = LogInterfaceUsage._parseURL(url);
+		var interfaceV = parsedURL[1];
+		interfaceV = interfaceV.replace(/\//g,"");
+
+		var interfaceRecord = LogInterfaceUsage._getInterface(interfaceV);
+
+		if(!interfaceRecord)
+			return;
+
+		var gr = new GlideRecord("u_interface_usage_log");
+			gr.initialize();
+			gr.u_user = gs.getUserID();
+			gr.u_interface = interfaceRecord.sys_id.toString();
+			gr.u_page = parsedURL.length==3? parsedURL[2]:"";
+			gr.insert();
+	}catch(e){gs.log("Error : \n"+JSON.stringify(e,null,4),"Script Include - LogInterfaceUsage");}
+};
+LogInterfaceUsage._parseURL = function(url){
+	var re = /^https:\/\/.*\..{1,3}(\/\w*\/|\/)(.+\.do.*$)?/g;
+	return re.exec(url);
+};
+LogInterfaceUsage._getInterface = function(prefix){
+	var gr = new GlideRecord("u_interface");
+	return gr.get("u_name",prefix)?gr:null;
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-01-22 11:32:59&lt;/sys_created_on&gt;&lt;sys_id&gt;611ea6790f770300f1c33b8ce1050e72&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;LogInterfaceUsage&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_611ea6790f770300f1c33b8ce1050e72&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-01-22 11:34:30&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1237410607</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>e0bc477d0ff70300f1c33b8ce1050e11</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611da5f4b50000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table/>
+<target_name>LogInterfaceUsage</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>019176b5c1770300cf9c1e296fd7670b</update_guid>
+<update_guid_history>019176b5c1770300cf9c1e296fd7670b:-1237410607,fe31bab51c77030082b2c20e545f5882:260067150</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_d4e86e3d0f730300f1c33b8ce1050ecb</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 10:56:43</sys_created_on><sys_id>d4e86e3d0f730300f1c33b8ce1050ecb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.admin</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_security_acl display_value="">f6d8e27d0f730300f1c33b8ce1050ec7</sys_security_acl><sys_update_name>sys_security_acl_role_d4e86e3d0f730300f1c33b8ce1050ecb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 10:56:43</sys_updated_on><sys_user_role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-584582130</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>e0bc477d0ff70300f1c33b8ce1050e14</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611d835a920000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table>f6d8e27d0f730300f1c33b8ce1050ec7</table>
+<target_name>.admin</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>93e8627de5730300f81139719809e3b9</update_guid>
+<update_guid_history>93e8627de5730300f81139719809e3b9:-584582130</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>ua_table_licensing_config_cd8d6a350f770300f1c33b8ce1050e9f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>u_interface_usage_log0002</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 11:16:46</sys_created_on><sys_id>cd8d6a350f770300f1c33b8ce1050e9f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_interface_usage_log0002</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>ua_table_licensing_config_cd8d6a350f770300f1c33b8ce1050e9f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 11:16:46</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+<payload_hash>-550948966</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>e0bc477d0ff70300f1c33b8ce1050e17</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611d95b85c0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table/>
+<target_name>u_interface_usage_log0002</target_name>
+<type>Table Subscription Configuration</type>
+<update_domain>global</update_domain>
+<update_guid>c98d6a35b8770300de8ed6fa54c1c1a0</update_guid>
+<update_guid_history>c98d6a35b8770300de8ed6fa54c1c1a0:-550948966</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_db_object_dd9366b90f330300f1c33b8ce1050e25</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>Interface Usage Log</label><live_feed_enabled>false</live_feed_enabled><name>u_interface_usage_log</name><number_ref/><provider_class/><read_access>true</read_access><super_class/><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 10:34:23</sys_created_on><sys_id>dd9366b90f330300f1c33b8ce1050e25</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Interface Usage Log</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_db_object_dd9366b90f330300f1c33b8ce1050e25</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 10:34:23</sys_updated_on><update_access>false</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+<payload_hash>1842480848</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>e0bc8b790ff70300f1c33b8ce1050e83</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611d6eea4b0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table>u_interface_usage_log</table>
+<target_name>Interface Usage Log</target_name>
+<type>Table</type>
+<update_domain>global</update_domain>
+<update_guid>d8d3e6b9e9330300311d43ffec77a46a</update_guid>
+<update_guid_history>d8d3e6b9e9330300311d43ffec77a46a:1842480848</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_u_interface_usage_log__en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="" label="Interface Usage Log" language="en" table="u_interface_usage_log"><sys_documentation action="INSERT_OR_UPDATE"><element/><help/><hint/><label>Interface Usage Log</label><language>en</language><name>u_interface_usage_log</name><plural>Interface Usage Logs</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 10:34:23</sys_created_on><sys_id>1cd3e6b90f330300f1c33b8ce1050e5c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Interface Usage Log</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_documentation_u_interface_usage_log__en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 10:34:23</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-943891581</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>e4bc477d0ff70300f1c33b8ce1050e10</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611d6eea390000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table>u_interface_usage_log</table>
+<target_name>Interface Usage Log</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>d8d3e6b9df33030029a27e28059b1c69</update_guid>
+<update_guid_history>d8d3e6b9df33030029a27e28059b1c69:-943891581</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_5ac82efd0f330300f1c33b8ce1050e87</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 10:56:17</sys_created_on><sys_id>5ac82efd0f330300f1c33b8ce1050e87</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.admin</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_security_acl display_value="">3bb82a3d0f730300f1c33b8ce1050e05</sys_security_acl><sys_update_name>sys_security_acl_role_5ac82efd0f330300f1c33b8ce1050e87</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 10:56:17</sys_updated_on><sys_user_role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>142017894</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>e4bc477d0ff70300f1c33b8ce1050e13</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611d82f48e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table>3bb82a3d0f730300f1c33b8ce1050e05</table>
+<target_name>.admin</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>05d8227d0c730300fa21185a832d53c1</update_guid>
+<update_guid_history>05d8227d0c730300fa21185a832d53c1:142017894</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>ua_table_licensing_config_698daa350f770300f1c33b8ce1050ec1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>u_interface_usage_log0006</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 11:16:48</sys_created_on><sys_id>698daa350f770300f1c33b8ce1050ec1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_interface_usage_log0006</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>ua_table_licensing_config_698daa350f770300f1c33b8ce1050ec1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 11:16:48</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+<payload_hash>-1879850214</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>e4bc477d0ff70300f1c33b8ce1050e16</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611d95bedf0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table/>
+<target_name>u_interface_usage_log0006</target_name>
+<type>Table Subscription Configuration</type>
+<update_domain>global</update_domain>
+<update_guid>658daa358f77030050f44cb8eb1d4ac2</update_guid>
+<update_guid_history>658daa358f77030050f44cb8eb1d4ac2:-1879850214</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_interface_u_name</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="u_name" table="u_interface"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Name&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;u_name&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="String"&gt;string&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;u_interface&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-01-22 10:42:57&lt;/sys_created_on&gt;&lt;sys_id&gt;d0b422f90f330300f1c33b8ce1050eb5&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Name&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_u_interface_u_name&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-01-22 10:42:57&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-170628697</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>e8bc477d0ff70300f1c33b8ce1050e0f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611d76c1cb0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table>u_interface</table>
+<target_name>u_interface.u_name</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>75c526b93a330300ca5ca363da4bcc81</update_guid>
+<update_guid_history>75c526b93a330300ca5ca363da4bcc81:-170628697</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_f6d8e27d0f730300f1c33b8ce1050ec7</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><name>u_interface</name><operation display_value="delete">delete</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 10:56:43</sys_created_on><sys_id>f6d8e27d0f730300f1c33b8ce1050ec7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_interface</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_security_acl_f6d8e27d0f730300f1c33b8ce1050ec7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 10:56:43</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-1004031291</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>e8bc477d0ff70300f1c33b8ce1050e12</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611d835ab60000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table>u_interface</table>
+<target_name>u_interface</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>1fe8ea7d52730300ff2d63ee89b900a4</update_guid>
+<update_guid_history>1fe8ea7d52730300ff2d63ee89b900a4:-1004031291</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>ua_table_licensing_config_18d3e6b90f330300f1c33b8ce1050e66</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>u_interface_usage_log</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 10:34:23</sys_created_on><sys_id>18d3e6b90f330300f1c33b8ce1050e66</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_interface_usage_log</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>ua_table_licensing_config_18d3e6b90f330300f1c33b8ce1050e66</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 10:34:23</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+<payload_hash>941721050</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>e8bc477d0ff70300f1c33b8ce1050e15</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611d6eea0f0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table/>
+<target_name>u_interface_usage_log</target_name>
+<type>Table Subscription Configuration</type>
+<update_domain>global</update_domain>
+<update_guid>54d3e6b95f330300630d0f5b75004a67</update_guid>
+<update_guid_history>54d3e6b95f330300630d0f5b75004a67:941721050</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_93382af50f730300f1c33b8ce1050ef7</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Allow create for records in u_interface, for users with role admin.</description><name>u_interface</name><operation display_value="create">create</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 10:54:08</sys_created_on><sys_id>93382af50f730300f1c33b8ce1050ef7</sys_id><sys_mod_count>1</sys_mod_count><sys_name>u_interface</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_security_acl_93382af50f730300f1c33b8ce1050ef7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 10:55:50</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-317900425</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>ecbc477d0ff70300f1c33b8ce1050e11</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611d828e450000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table>u_interface</table>
+<target_name>u_interface</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>eab866f95973030016afbcbf7b225c01</update_guid>
+<update_guid_history>eab866f95973030016afbcbf7b225c01:-317900425,2558ae39a1730300b2692e0f687a95b3:1417894427</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_module_35c5aef90f330300f1c33b8ce1050e3e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Interface">79c5aef90f330300f1c33b8ce1050e3c</application><filter/><name>Interfaces</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles/><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-01-22 10:42:57</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>35c5aef90f330300f1c33b8ce1050e3e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Interfaces</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_module_35c5aef90f330300f1c33b8ce1050e3e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-01-22 10:42:57</sys_updated_on><table>u_interface</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+<payload_hash>813372325</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>ecbc477d0ff70300f1c33b8ce1050e14</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611d76c3110000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table>u_interface</table>
+<target_name>Interfaces</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>75c5aef953330300c8a8664b60c4ce3f</update_guid>
+<update_guid_history>75c5aef953330300c8a8664b60c4ce3f:813372325</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_interface_usage_log_u_page</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="u_page" table="u_interface_usage_log"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Page&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;u_page&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="String"&gt;string&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;4000&lt;/max_length&gt;&lt;name&gt;u_interface_usage_log&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-01-22 13:27:03&lt;/sys_created_on&gt;&lt;sys_id&gt;f63bcf310ff70300f1c33b8ce1050e5a&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Page&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_u_interface_usage_log_u_page&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-01-22 13:27:03&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-2090641785</payload_hash>
+<remote_update_set display_value="Interfaces Usage Tracking">60bc8b790ff70300f1c33b8ce1050e82</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-22 13:32:59</sys_created_on>
+<sys_id>ecbc8b790ff70300f1c33b8ce1050e83</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1611e0d02530000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-22 13:32:59</sys_updated_on>
+<table>u_interface_usage_log</table>
+<target_name>Interface Usage Log.Page</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>315b073d40f703007c31207a0ede2db2</update_guid>
+<update_guid_history>315b073d40f703007c31207a0ede2db2:-2090641785,355b073d07f70300f9378beb32d9ffa8:-2090641785,793b833d4ef7030076e042b5d2529b48:-1893951941,10e4be3139f7030011122a92988fa215:-2090641785,a93be2f958f3030014deb9871fb04a07:1445268871</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>

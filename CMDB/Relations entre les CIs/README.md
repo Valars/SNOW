@@ -14,7 +14,7 @@ Attributs
 Stock les templates d'options au sein même de la classe. Un template est sélectionnable à l'instanciation de la classe. Implémente un algorithme de parcours en largeur d'arbre orienté.
 
 <a name="defaultMaxDepth"></a>**defaultMaxDepth**
-Profondeur maximale à explorer dans l'arbre des relations. Utilisé sur le paramètre 
+Profondeur maximale à explorer dans l'arbre des relations par défaut.
 
 <a name="ci"></a>**ci**
 Identifiant système du CI racine de l'arbre de recherche.
