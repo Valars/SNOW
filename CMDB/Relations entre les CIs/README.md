@@ -1,15 +1,14 @@
-CIRelationshipsTools
-====================
-----------
+#CIRelationshipsTools#
+---
 
-Description
------------
+##Description##
+
 Cette classe permet de retrouver la liste des CIs en relation avec un CI donné ainsi que de générer des filtres pour Reference Qualifier.
 
 > Pour le moment, la classe ne permet que de trouver un CI avec un filtrage sur le CI relié, il est prévu à moyen terme d'ajouter des possibilités de filtrage plus poussées comme les relations.
 
-Attributs
--------
+##Attributs##
+
 <a name="_optionsTemplate"></a>**_optionsTemplate** : *Static*
 Stock les templates d'options au sein même de la classe. Un template est sélectionnable à l'instanciation de la classe. Implémente un algorithme de parcours en largeur d'arbre orienté.
 
@@ -22,8 +21,7 @@ Identifiant système du CI racine de l'arbre de recherche.
 <a name="options"></a>**options**
 Contient les options de l'instance.
 
-Méthodes
---------
+##Méthodes##
 
 Liste des méthodes :
 
@@ -53,8 +51,8 @@ Sortie :
  - *String* : Requête encodée sous le format "sys_idIN\<sys_id1\>\<sys_id2\>...\<sys_idn\>"
 
 ----------
-<a name="options"></a>Options
-------- 
+##<a name="options"></a>Options##
+
 Cette classe propose plusieurs paramètres permettant le filtrage des éléments de configuration et influençant le déroulement de l'algorithme.
 Il existe deux types de paramètres, ceux agissant comme un filtre sur le GlideRecord récupérant les enfants (d'un point de vue arbre) d'un CI et ceux agissant indépendant de la requête au serveur et lors de la boucle de parcours des résultats. Ainsi, filtrer un CI avec le premier type de filtre reviendra à élaguer toute une branche de l'arbre tandis qu'un filtre du second type pourrai ou non élaguer la branche correspondant aux enfants du CI. Pour ces filtre, le comportement est détaillé dans leur description.
 
